@@ -1,0 +1,4 @@
+recursive-include cielo *
+
+include README.md
+include requirements.txt
